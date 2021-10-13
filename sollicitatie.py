@@ -31,37 +31,3 @@ if (Ervaring1 > 3 or Ervaring2 > 4 or Ervaring3 > 2) and DiplomaMBO4 == "ja" and
     print("Gefeliciteerd, u komt in aanmerking tot een solicitatie voor deze vacature. ")
 else:
     print("Helaas, u komt niet in aanmerking tot een solicitatie voor deze vacature. ")
-
-
-
-
-# if Ervaring1 > 3 or Ervaring2 > 4 or Ervaring3 > 2:
-#     DiplomaMBO4 = input("Bent u in bezit van een MBO-4 ondernemers diploma? ")
-#     if DiplomaMBO4 == "ja":
-#         Rijbewijs = input("Bent u in bezit van een geldig Vrachtwagen rijbewijs? ")
-#         if Rijbewijs == "ja":
-#             Hoed = input("Bent u in bezit van een hoge hoed? ")
-#             if Hoed == "ja":
-#                 Geslacht = input("Bent u een man of vrouw? ")
-#                 if Geslacht == "man":
-#                     Snor = input("Heeft u een snor? ")
-#                     if Snor == "ja":
-#                         BreeteS = input("Hoe breed is uw snor? ")
-#                         if BreeteS > "9":
-#                             Lengte = input("Wat is uw lengte? (In cm) ")
-#                             if Lengte > "149":
-#                                 Gewicht = input("Wat is uw gewicht? ")
-#                                 if Gewicht > "89":
-#                                     Certificaat = input("Heeft u een certificaat 'Overleven met gevaarlijk personeel'? ")   
-#                 else:
-#                     HaarK = input("Is uw haar rood krullend? ")
-#                     if HaarK == "ja":
-#                         HaarL = input("Hoe lang is uw haar? ")
-#                         if HaarL > "19":
-#                             Lengte = input("Wat is uw lengte? (In cm) ")
-#                             if Lengte > "149":
-#                                 Gewicht = input("Wat is uw gewicht? ")
-#                                 if Gewicht > "89":
-#                                     Certificaat = input("Heeft u een certificaat 'Overleven met gevaarlijk personeel'? ")
-
-
